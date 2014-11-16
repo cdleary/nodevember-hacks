@@ -1,0 +1,16 @@
+Runtime Funtimes: pushing the limits!
+ 
+"JavaScript is the universal runtime." I know I've heard people say that... but
+what /is/ a runtime? Why would I want one? It sounds exhausting, does it come
+with an exercise video? And why is this talk's title obnoxiously implying that
+the one I've got isn't good enough?
+ 
+In this talk we will explain why runtimes are where the Turing Tarpits break
+down. (Or boil up, or something.) Touching on both client- and server-side
+tech, we’ll explore cutting-edge techniques for runtime betterment:
+DSLs, language-hosted FFI support, and get down to bare-metal performance
+brass-tacks — how fast can we get the server side to go? If you've never
+believed the "JS can be like LISP" baloney, you're gonna walk out singing the
+Oscar Myer Weiner song.
+ 
+(Disclosure: This speaker has no ownership interests in Oscar Myer Weiner.)
